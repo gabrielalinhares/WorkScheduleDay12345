@@ -7,3 +7,5 @@ The Schedule is divided by hour and uses the working hours as basis. It goes fro
 When the huour didnt arrive yet, the time block is shown as green, when it is in the hour of the time block it will show as red and when it has passed it will show as grey.
 
 The used can add the notes they want and even if refresh/ close the page, the information will still be there unless he/she opts for it using the button below the date.
+
+https://gabrielalinhares.github.io/WorkScheduleDay12345/
